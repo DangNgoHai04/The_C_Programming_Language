@@ -1,0 +1,15 @@
+# =====================================
+# Compiled objects and executables
+# =====================================
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.dll
+*.dylib
+
+# Common executable names
+a.out
+program
+main
